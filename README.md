@@ -12,6 +12,6 @@ Visualizador de CC para precipitación/tormenta 1440 minutos
 
 
 
-Citar el Trabajo de INAMHI 2029 y del Grupo de la Dra. Thrasher, B.2022.
+Citar el Trabajo de INAMHI 2019 y del Grupo de la Dra. Thrasher, B.2022.
 
 
